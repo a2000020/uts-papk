@@ -14,7 +14,7 @@
         "type": "image/png"
         }
     ],
-    "start_url": "/uts-papk/index.html",
+    "start_url": "/uts-papk/",
     "display": "standalone",
     "theme_color": "#1F3641",
     "background_color": "#ffffff",
